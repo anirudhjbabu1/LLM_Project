@@ -1,7 +1,9 @@
 # LLM_Project - 1 
 
-# Under Development 👨‍💻🤖
 <style>H2{color:Green;}</style>
+
+# Under Development 👨‍💻🤖
+
 # Equity Research Tool
 
 ## Tech used
