@@ -1,6 +1,10 @@
-# LLM_Project - 1 
+<style>
+H1{color:Blue !important;}
+H2{color:DarkOrange !important;}
+p{color:Black !important;}
+</style>
 
-<style>H2{color:Green;}</style>
+# LLM_Project - 1 
 
 # Under Development 👨‍💻🤖
 
