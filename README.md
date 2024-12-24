@@ -1,11 +1,6 @@
-<style>
-H1{color:Blue !important;}
-H2{color:DarkOrange !important;}
-p{color:Black !important;}
-</style>
-
-# LLM_Project - 1 
-
+```diff
+- # LLM_Project - 1 
+```
 # Under Development 👨‍💻🤖
 
 # Equity Research Tool
