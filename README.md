@@ -1,8 +1,7 @@
+# LLM_Project - 1 
 ```diff
-# - LLM_Project - 1 
+- # Under Development 👨‍💻🤖
 ```
-# Under Development 👨‍💻🤖
-
 # Equity Research Tool
 
 ## Tech used
