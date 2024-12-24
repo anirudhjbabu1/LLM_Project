@@ -1,4 +1,7 @@
-# LLM_Project - 1 / Under Development 👨‍💻🤖
+# LLM_Project - 1 
+
+# Under Development 👨‍💻🤖
+
 # Equity Research Tool
 
 ## Tech used
