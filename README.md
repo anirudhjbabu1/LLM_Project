@@ -1,6 +1,6 @@
 # LLM_Project - 1 
 ```diff
-- # Under Development 👨‍💻🤖
+# Under Development 👨‍💻🤖
 ```
 # Equity Research Tool
 
